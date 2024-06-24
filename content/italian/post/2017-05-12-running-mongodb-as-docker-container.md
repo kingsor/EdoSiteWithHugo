@@ -1,6 +1,7 @@
 ---
 date: "2017-05-12"
-summary: Installing and creating a MongoDB database in a Docker container.
+title: MongoDB come Docker container
+summary: Installare e creare un database MongoDB in un docker container.
 categories:
 - developer
 tags:
@@ -8,7 +9,8 @@ tags:
 - mongodb
 - docker
 - github
-title: Running MongoDB as a Docker container
+series:
+- series-docker-compose
 ---
 
 I've tried to run a mongo docker image on docker toolbox on my machine. But there was a problem with the http/https proxy settings.

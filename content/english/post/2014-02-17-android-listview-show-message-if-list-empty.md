@@ -1,8 +1,9 @@
 ---
-date: "2014-02-17T00:00:00Z"
-description: This is the common way to show a message when the listview is empty.
-tags:
+date: "2014-02-17"
+summary: This is the common way to show a message when the listview is empty.
+categories:
 - developer
+tags:
 - android
 - listview
 title: Android ListView, show a message if the list is empty

@@ -1,12 +1,13 @@
 ---
-date: "2015-11-26T00:00:00Z"
-description: On November 23rd and 24th there has been the annual Android Dev Summit
+date: "2015-11-26"
+summary: On November 23rd and 24th there has been the annual Android Dev Summit
   from the Computer History Museum in Mountain View. This is a note-to-self about
   the related YouTube channel.
+categories:
+- developer
 tags:
 - mobile
 - android
-- developer
 - ide
 - devsummit 2015
 title: Android Dev Summit 2015

@@ -1,8 +1,9 @@
 ---
-date: "2017-05-16T00:00:00Z"
-description: Deploy a simple side project on AppHarbor with some troubles.
-tags:
+date: "2017-05-16"
+summary: Deploy a simple side project on AppHarbor with some troubles.
+categories:
 - developer
+tags:
 - appharbor
 - side-project
 - asp-net

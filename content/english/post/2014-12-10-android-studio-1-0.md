@@ -1,10 +1,11 @@
 ---
-date: "2014-12-10T00:00:00Z"
-description: Android Studio 1.0 has been released. Android Studio is the official
+date: "2014-12-10"
+summary: Android Studio 1.0 has been released. Android Studio is the official
   Integrated Development Environment (IDE) from the Android team.
-tags:
+categories:
 - developer
 - manager
+tags:
 - android
 - mobile
 - ide

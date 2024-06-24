@@ -1,10 +1,10 @@
 ---
-date: "2019-10-13T00:00:00Z"
-description: Jason Fried let us know Shape Up is available
-tags:
-- developer
-- product development
+date: "2019-10-13"
+summary: Jason Fried let us know Shape Up is available
+categories:
 - manager
+tags:
+- product-development
 - basecamp
 - note-to-self
 title: Shape Up, basecamp team approach to product development

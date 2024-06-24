@@ -1,8 +1,9 @@
 ---
-date: "2017-06-27T00:00:00Z"
-description: Setting up a sample project using Spark Framework with Maven
-tags:
+date: "2017-06-27"
+summary: Setting up a sample project using Spark Framework with Maven
+categories:
 - developer
+tags:
 - side-project
 - java
 - maven

@@ -1,9 +1,10 @@
 ---
-date: "2018-09-25T00:00:00Z"
-description: This post is a note to self about a talk by Phil Shadlyn on Writing an
+date: "2018-09-25"
+summary: This post is a note to self about a talk by Phil Shadlyn on Writing an
   App with Architecture Components
-tags:
+categories:
 - developer
+tags:
 - android
 - architecture-components
 title: Using Architecture Components

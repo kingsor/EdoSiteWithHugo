@@ -1,8 +1,9 @@
 ---
-date: "2019-11-06T00:00:00Z"
-description: Starting with Xamarin development following James Montemagno
-tags:
+date: "2019-11-06"
+summary: Starting with Xamarin development following James Montemagno
+categories:
 - developer
+tags:
 - xamarin
 - mobile
 title: Mobile Development with Xamarin

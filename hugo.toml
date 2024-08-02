@@ -25,6 +25,7 @@ paginate = 5
     DateForm = "January 2, 2006"
     author = "Edoardo Inamo"
     localizedDates = true
+    disableTitleCapitalization = true
 
     reversepagetitle = true
     doNotLoadAnimations = true
@@ -44,6 +45,9 @@ paginate = 5
     showFooterFollowMe = true
     showFooterTextWidget = true
     showFooterFormWidget = true
+
+    opengraph_io_api_key = "832932ea-5b8a-4cdc-9ff3-e70e2f1f001b"
+    linkpreview_api_key = "97657aa0b3e40c49c41bf4a08ec88833"
 
 
 [languages]

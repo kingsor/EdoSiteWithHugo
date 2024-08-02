@@ -12,6 +12,8 @@ Di cosa ci si deve domandare per capire se le proprie passioni possono consentir
 
 [Reinventare il giardinaggio](https://www.jacopoperfetti.com/blog/663/)
 
+{{< og-summary "https://www.jacopoperfetti.com/blog/663" >}}
+
 > Tanto [Plant Sitter](https://getfired.co/valentina-paracchi/) quanto [Bonsai Mirai](https://live.bonsaimirai.com/) sono l’esempio che la differenza tra una passione e una professione sta nella capacità di costruire un modello di business che renda la propria passione economicamente sostenibile.
 
 > Prendendo spunto da questi due esempi se vogliamo trasformare la nostra passione in una professione dobbiamo:
